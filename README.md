@@ -4,6 +4,7 @@ Hi, I'm 品川・春子(Shinagawa Haruko), a passionate Full Stack Fintech devel
 I am always targeting to create valuable solutions that impact life and doing so by applying development best practices, methodologies, and building platforms easy to use.
 I take great care in the experience, architecture, and code quality of the things I build.
 
+<img align="right" alt="GIF" src="https://github.com/shinagawa-haruko/shinagawa-haruko/blob/main/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I’m currently working at blockchain technologies
 - 👯 I’m looking to collaborate on blockchain projects
