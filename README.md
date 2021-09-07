@@ -9,7 +9,7 @@ I take great care in the experience, architecture, and code quality of the thing
 - 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking for help with building DeFi and dapps
 - 💬 Ask me about blockchain development and financial trading
-- 📫 How to reach me: ben.weider081@yahoo.com
+- 📫 How to reach me: beauty.daughter0310@gmail.com
 - 😄 Pronouns: He/His
 
 
