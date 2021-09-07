@@ -43,13 +43,13 @@ I take great care in the experience, architecture, and code quality of the thing
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deep-quality-dev&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-quality-dev" />
+<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko" />
 
 </details>
