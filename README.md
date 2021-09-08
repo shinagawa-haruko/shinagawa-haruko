@@ -15,6 +15,8 @@ I take great care in the experience, architecture, and code quality of the thing
 
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
