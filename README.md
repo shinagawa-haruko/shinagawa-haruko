@@ -1,24 +1,28 @@
-### Hey, Everyone 👋
+# Hey, Everyone 👋
 
-Hi, I'm 品川・春子(Shinagawa Haruko), a passionate Full Stack Fintech developer.
+I'm a passionate Full Stack Fintech developer.
 I am always targeting to create valuable solutions that impact life and doing so by applying development best practices, methodologies, and building platforms easy to use.
 I take great care in the experience, architecture, and code quality of the things I build.
 
+
+## Favorites
+
 <img align="right" alt="GIF" src="https://github.com/shinagawa-haruko/shinagawa-haruko/blob/default/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I’m currently working at blockchain technologies
-- 👯 I’m looking to collaborate on blockchain projects
-- 📑 I’m looking for help with building DeFi and dapps
-- 💬 Ask me about blockchain development and financial trading
-- 📫 How to reach me: beauty.daughter0310@gmail.com
-- 😄 Pronouns: He/His
-
+* 🌱 Currently working at blockchain technologies
+* 👯 Looking for collaborate on blockchain projects, building DeFi and DAPPS
+* 💬 Ask me about blockchain development and Binance trading
 
 <br />
 <br />
+
+## Contact
+beauty.daughter0310@gmail.com
+
+<br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
@@ -39,7 +43,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 
 <br />
----
+
 
 
 <details>
