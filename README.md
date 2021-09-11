@@ -1,7 +1,7 @@
 # Hey, Everyone 👋
 
-I'm a passionate Full Stack Fintech developer.
-I am always targeting to create valuable solutions that impact life and doing so by applying development best practices, methodologies, and building platforms easy to use.
+I'm a Full Stack Fintech developer.
+Always targeting to create valuable solutions that impact life and doing so by applying development best practices, methodologies, and building platforms easy to use.
 I take great care in the experience, architecture, and code quality of the things I build.
 
 
