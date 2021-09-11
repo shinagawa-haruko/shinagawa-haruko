@@ -46,8 +46,6 @@ beauty.daughter0310@gmail.com
 
 <br />
 
-
-<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -61,4 +59,3 @@ beauty.daughter0310@gmail.com
 <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko" />
 
 </details>
--->
