@@ -46,6 +46,7 @@ beauty.daughter0310@gmail.com
 
 <br />
 
-<img align="left" width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&theme=monokai&count_private=true">
-<img align="right" width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko&layout=compact&theme=monokai&count_private=true">
-
+<div>
+	<img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&theme=monokai&count_private=true">
+	<img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko&layout=compact&theme=monokai&count_private=true">
+</div>
