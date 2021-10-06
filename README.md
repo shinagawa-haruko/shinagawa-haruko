@@ -44,19 +44,8 @@ beauty.daughter0310@gmail.com
     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
 </p>
 
-
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko" />
-
-</details>
+<div style="width:100%;display:flex;">
+	<img align="left" width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&theme=monokai&count_private=true">
+	<img align="right" width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko&layout=compact&theme=monokai&count_private=true">
+</div>
