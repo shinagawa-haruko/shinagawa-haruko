@@ -10,7 +10,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <img align="right" alt="GIF" src="https://github.com/shinagawa-haruko/shinagawa-haruko/blob/default/code.gif?raw=true" width="400" height="256" />
 
 * 🌱 Currently working at blockchain technologies
-* 🔍 Looking for collaborate on blockchain projects, building DeFi and DAPPS
+* 🔍 Looking for collaborate on blockchain projects, building DeFi and NFT market places
 * 👬 Co-operate with FullStak development
 * 💬 Ask me about blockchain development and strategy about Binance trading
 
