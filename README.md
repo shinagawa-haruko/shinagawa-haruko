@@ -56,6 +56,6 @@ I take great care in the experience, architecture, and code quality of the thing
 <br />
 
 <div>
-	<img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&theme=monokai&count_private=true">
+	<img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=shinagawa-haruko&show_icons=true&theme=radical&&count_private=true">
 	<img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinagawa-haruko&layout=compact&theme=monokai&count_private=true">
 </div>
