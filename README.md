@@ -19,6 +19,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 ## Contact
 beauty.daughter0310@gmail.com
+@beautydaughter
 
 <br />
 <br />
